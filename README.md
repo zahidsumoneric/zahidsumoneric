@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🌐 Mohamamd Zahidul Haque  
-### PhD Applicant • Photonics • Optical Communications • Telecom Engineer  
+### PhD Applicant • Photonics • Optical Communications • Optical Transport Engineer  
 
 <img src="https://img.shields.io/badge/Photonics-Research-blue" />
 <img src="https://img.shields.io/badge/Optical%20Communications-Focus-success" />
